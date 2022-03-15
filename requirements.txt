@@ -3,7 +3,7 @@ numpy
 matplotlib
 scipy
 opencv-python
-PIL
+Pillow
 streamlit
 os
 multipage
