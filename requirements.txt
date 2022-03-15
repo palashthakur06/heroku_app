@@ -1,0 +1,14 @@
+skimage
+numpy
+matplotlib
+scipy
+cv2
+PIL
+streamlit
+os
+multipage
+streamlit_cropper
+imageio
+turtle
+faulthandler
+datetime
