@@ -5,8 +5,5 @@ scipy
 opencv-python
 Pillow
 streamlit
-multipage
 streamlit_cropper
 imageio
-turtle
-faulthandler
