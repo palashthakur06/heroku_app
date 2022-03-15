@@ -2,7 +2,7 @@ scikit-image
 numpy
 matplotlib
 scipy
-opencv-python
+opencv-python-headless
 Pillow
 streamlit
 streamlit_cropper
