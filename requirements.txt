@@ -5,10 +5,8 @@ scipy
 opencv-python
 Pillow
 streamlit
-os
 multipage
 streamlit_cropper
 imageio
 turtle
 faulthandler
-datetime
