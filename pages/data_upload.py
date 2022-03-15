@@ -1,7 +1,8 @@
-from skimage import io, morphology
-import numpy as np
+import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+from skimage import io, morphology
+import numpy as np
 import skimage.feature as features
 from scipy import ndimage
 from skimage.morphology import white_tophat
