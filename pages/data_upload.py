@@ -1,7 +1,6 @@
-from heapq import merge
-from turtle import width
 from skimage import io, morphology
 import numpy as np
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import skimage.feature as features
 from scipy import ndimage
