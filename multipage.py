@@ -4,8 +4,6 @@ through an object oriented framework.
 """
 
 # Import necessary libraries 
-from faulthandler import disable
-from turtle import onclick, up
 import streamlit as st
 # st.markdown(
 #             f'''
